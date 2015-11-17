@@ -1,0 +1,76 @@
+# Current minions without a webpage
+
+#    ______               __   _____ __            __           __      
+#   / ____/________ _____/ /  / ___// /___  ______/ /__  ____  / /______
+#  / / __/ ___/ __ `/ __  /   \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
+# / /_/ / /  / /_/ / /_/ /   ___/ / /_/ /_/ / /_/ /  __/ / / / /_(__  ) 
+# \____/_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
+                                                                      
+
+
+- name: Teddy Seyed
+  year: 2014-
+  projects: Multi-Surface Environments
+  type: PhD Student
+
+- name: Lisa Graham
+  year: 2012-
+  projects: Personal Informatics
+  type: MSc Student
+
+- name: Hesam Alizadeh
+  year: 2013-
+  projects: Remote Exercise
+  type: MSc Student
+
+- name: Waliur Rahman
+  year: 2013-
+  projects: Chronic Headaches
+  type: MSc Student
+
+- name: Jennifer Payne
+  year: 2013-
+  projects: Physical Visualizations
+  type: MSc Student
+
+- name: Brennan Jones
+  year: 2014-
+  projects: Drone-Based Videoconferencing
+  type: MSc Student, RA, 502 Researcher
+
+- name: Anna Witcraft
+  year: 2014-
+  projects: Family Communication
+  type: MSc Student
+
+- name: Omid Fakourfar
+  year: 2014-
+  projects: Mobile Collaboration
+  type: MSc Student
+
+- name: Kody Dillman
+  year: 2012-
+  projects: Collaborative AR
+  type: MSc Student, RA, 502 Researcher
+
+- name: Richard Tang
+  year: 2012-
+  projects: Physiotherapy
+  type: MSc Student, RA
+
+#    __  __          __                               __   _____ __            __           __      
+#   / / / /___  ____/ /__  _________ __________ _____/ /  / ___// /___  ______/ /__  ____  / /______
+#  / / / / __ \/ __  / _ \/ ___/ __ `/ ___/ __ `/ __  /   \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
+# / /_/ / / / / /_/ /  __/ /  / /_/ / /  / /_/ / /_/ /   ___/ / /_/ /_/ / /_/ /  __/ / / / /_(__  ) 
+# \____/_/ /_/\__,_/\___/_/   \__, /_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
+#                            /____/                                                                 
+                      
+- name: Kevin Ta
+  year: 2015-
+  projects: Collaborative AR
+  type: RA, 502 Researcher
+
+- name: Peter Buk
+  year: 2012-
+  projects: Collaborative AR
+  type: 502 Researcher
