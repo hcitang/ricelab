@@ -3,7 +3,6 @@ layout: default-person
 title: Omid Fakourfar
 subtitle: MSc Student
 thumbnail: /assets/images/people/omid-fakourfar.jpg
-featured: /assets/images/people/omid-fakourfar.jpg
 categories:
     - people
 tags:
@@ -17,8 +16,10 @@ For my thesis, we have designed, implemented and evaluated handheld and wearable
 
 My hobbies are Hiking, Amateur Photography, Video Gaming and Driving. More recently, I am becoming curious about Information Architecture, the design and evaluation of information environments (such as websites) to support usability. 
 
-Visit me on the web at [my personal website](http://fakourfar.net).
+<!-- Visit me on the web at [my personal website](http://fakourfar.net). -->
 
+<!--
 ## Papers
 
 {% bibliography --cited %}
+-->
