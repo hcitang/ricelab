@@ -7,22 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 2246,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 554,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -61,10 +45,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Volumes/Dropbox Partition/Dropbox/Temp/Arcana-Jekyll-Theme-master"
+		"/Users/tonyt/GitHub/ricelab"
 	],
 	"file_history":
 	[
+		"/Users/tonyt/GitHub/ricelab/index.html",
+		"/Users/tonyt/GitHub/ricelab/_config.yml",
+		"/Users/tonyt/GitHub/ricelab/_posts/people/2015-11-20-omid-fakourfar.md",
+		"/Users/tonyt/GitHub/ricelab/README.md",
 		"/Users/tonyt/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings"
 	],
 	"find":
@@ -101,68 +89,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 554,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -214,6 +142,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"omid",
+				"_posts/people/2015-11-20-omid-fakourfar.md"
+			]
 		],
 		"width": 0.0
 	},

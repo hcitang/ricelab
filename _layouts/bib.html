@@ -2,7 +2,10 @@
 # HACK: jekyll-scholar doesn't seem to have site.baseurl, so I've prepended it manually.
 ---
 <section id="citation">
+<!--
     <a href="{{ '/papers/' | prepend:'/newricelab'| append:entry.key }}">{{ reference }}
+-->
+    <a href="{{ '/papers/' | append:entry.key }}">{{ reference }}
 {% if entry.type == "workshop" and entry.editor %}
 	({{ entry.editor }}, Eds.)
 {% endif %}

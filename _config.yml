@@ -1,7 +1,7 @@
 name: RICELab
 description: RICELab Homepage
 # paginate: 10
-baseurl: '/newricelab' # note: need to fix this in bib.html as well
+baseurl: '' # note: need to fix this in bib.html as well
 gems: [jekyll-paginate, jekyll-gist, jekyll/scholar]
 encoding: utf-8
 permalink: /blog/:year/:title/
