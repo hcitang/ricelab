@@ -9,7 +9,7 @@ permalink: /blog/:year/:title/
 scholar:
   style: assets/bibliography/tony-citation-style.csl
   locale: en
-                             
+
   sort_by: year
   order: descending
 
