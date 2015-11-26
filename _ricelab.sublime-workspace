@@ -28,9 +28,12 @@
 	},
 	"console":
 	{
-		"height": 126.0,
+		"height": 91.0,
 		"history":
 		[
+			"refresh_folder_list()",
+			"refresh_folder_list",
+			"show_overlay ",
 			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
@@ -45,12 +48,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/tonyt/GitHub/ricelab"
+		"/Users/tonyt/GitHub/ricelab",
+		"/Users/tonyt/GitHub/ricelab/_includes",
+		"/Users/tonyt/GitHub/ricelab/_posts",
+		"/Users/tonyt/GitHub/ricelab/assets",
+		"/Users/tonyt/GitHub/ricelab/assets/bibliography",
+		"/Users/tonyt/GitHub/ricelab/assets/files",
+		"/Users/tonyt/GitHub/ricelab/internal",
+		"/Users/tonyt/GitHub/ricelab/pages"
 	],
 	"file_history":
 	[
-		"/Users/tonyt/GitHub/ricelab/index.html",
+		"/Users/tonyt/GitHub/ricelab/_data/minions.yml",
+		"/Users/tonyt/GitHub/ricelab/pages/people.md",
 		"/Users/tonyt/GitHub/ricelab/_config.yml",
+		"/Users/tonyt/GitHub/ricelab/index.html",
 		"/Users/tonyt/GitHub/ricelab/_posts/people/2015-11-20-omid-fakourfar.md",
 		"/Users/tonyt/GitHub/ricelab/README.md",
 		"/Users/tonyt/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings"
@@ -143,6 +155,14 @@
 		"selected_items":
 		[
 			[
+				"people",
+				"pages/people.md"
+			],
+			[
+				"",
+				"_data/minions.yml"
+			],
+			[
 				"readm",
 				"README.md"
 			],
@@ -179,7 +199,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 203.0,
+	"side_bar_width": 193.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
