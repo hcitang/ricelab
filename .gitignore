@@ -2,3 +2,8 @@
 *.sublime-workspace
 
 *.sublime-workspace
+_site
+
+.jekyll-metadata
+
+_ricelab.sublime-workspace
