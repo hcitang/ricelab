@@ -1,5 +1,5 @@
 ---
-title: A Study on Collaboration in Minecraft
+title: A Study of Collaboration in Minecraft
 layout: post
 type: blog
 permalink: "/studies/minecraft"
