@@ -1,5 +1,5 @@
 ---
-title: Ilab Demo Day: Roles and Responsibilities
+title: Ilab Demo Day - Roles and Responsibilities
 layout: post
 ---
 
