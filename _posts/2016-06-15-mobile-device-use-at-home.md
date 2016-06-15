@@ -8,8 +8,6 @@ A few years back, my colleague [Carman Neusaedter](http://carmster.com) remarked
 
 Thus, we set out to address this question by designing a study where we asked people: "Hey, document instances where someone in your home was using a cell phone, or you were using a cell phone." Beyond this, we asked them, "How did you feel about it?" The results of this study was recently presented at the [DIS 2016 conference](http://dis2016.org) {% cite neustaedter2016mobiledevicesathome %}.
 
-![A photo from the early 1900 that depicts an entire trainful of passengers reading newspapers. The accompanying caption usually reads, "All this technology is making us antisocial."](http://i.imgur.com/WkHHpZ1.jpg)
-
 The interesting thing with investigating a phenomenon that seems embedded in contemporary life is that you can find lots of things that seem related in pop culture, but it is hard to know how much of it is universal, and how long the effect will last. A [funny meme that circulated for a while](https://www.reddit.com/r/RedditThroughHistory/comments/1rkhx2/all_this_technology_is_making_us_antisocial/) depicts a trainful of commuter passengers from the early 1900s where every passenger is reading a newspaper. The caption usually reads, "All this technology is making us anti-social." As a mid-30-something researcher who is increasingly becoming aware of his age, I am accutely aware of how annoying it is when my students or my family members pull out their phones in my presence; however, it is hard for me to really reflect and remember accutely a time when this wasn't the case (technically, I was around before the emergence of the modern smartphone, but sadly, it is kind of hard to remember that far back).
 
 ## Major Punchline
@@ -30,5 +28,5 @@ We decided to only allow one participant per household. This was a tricky choice
 
 {% bibliography --cited %}
 
-* [Slides from the DIS 2016 presentation](2016-dis2016-mobile-device-use-at-home.pptx)
+* [Slides from the DIS 2016 presentation](http://hcitang.org/papers/2016-dis2016-mobile-device-use-at-home.pptx)
 * Recent related work: colleagues from UW that [studied how parents use cell phones at the playground](http://www.washington.edu/news/2015/05/18/study-44-percent-of-parents-struggle-to-limit-cell-phone-use-at-playgrounds/), finding that many parents responded slower to children's needs when occupied with their phones. I think I work was under submission around the same time.
