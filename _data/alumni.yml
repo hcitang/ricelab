@@ -13,13 +13,27 @@
   notes: Faculty at Dartmouth
   projects: Physio@Home, CipherCard
 
-
 #    ______               __   _____ __            __           __      
 #   / ____/________ _____/ /  / ___// /___  ______/ /__  ____  / /______
 #  / / __/ ___/ __ `/ __  /   \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
 # / /_/ / /  / /_/ / /_/ /   ___/ / /_/ /_/ / /_/ /  __/ / / / /_(__  ) 
 # \____/_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
-                                                                      
+
+
+- name: Anna Witcraft
+  year: 2014-2016
+  projects: Family Communication
+  type: MSc Student (incomplete)
+                                      
+- name: Lisa Graham
+  year: 2012-2016
+  projects: Personal Informatics
+  type: MSc Student
+
+- name: Richard Tang
+  year: 2012-2016
+  projects: Physiotherapy
+  type: MSc Student, RA
 
 - name: Waliur Rahman
   year: 2013-2015
@@ -84,6 +98,17 @@
 # /_____/\____/____/_/  /_____/\____/____/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
                                                                                        
 
+
+- name: Kevin Ta
+  year: 2015-2016
+  projects: Collaborative AR
+  type: NSERC USRA, Undergrad Researcher (502 Project)
+
+- name: Peter Buk
+  year: 2015-2016
+  projects: Collaborative AR
+  type: Undergrad Researcher (502 Project)
+
 - name: Josh Gelinas
   year: 2013
   projects: Non-Tangible Exergame Controls
@@ -119,7 +144,6 @@
   projects: Twitter During Live Sporting Events
   type: Undergrad Researcher (503 Project)
 
-
 - name: Anthony Tam
   year: 2011
   projects: Visualizing Patterns of Keyboard Use
@@ -129,8 +153,6 @@
   year: 2011
   projects: Reflecting on Everyday Exercise
   type: Undergrad Researcher (503 Project)
-
-
 
 
 # Richard Tang (2015, MSc): Physio@Home: Exploring the Design of Visual Feedback for at Home physiotherapy

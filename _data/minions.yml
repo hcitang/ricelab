@@ -11,11 +11,6 @@
   projects: Multi-Surface Environments
   type: PhD Student
 
-- name: Lisa Graham
-  year: 2012-
-  projects: Personal Informatics
-  type: MSc Student
-
 - name: Hesam Alizadeh
   year: 2013-
   projects: Remote Exercise
@@ -31,20 +26,11 @@
   projects: Drone-Based Videoconferencing
   type: MSc Student, RA, 502 Researcher
 
-- name: Anna Witcraft
-  year: 2014-
-  projects: Family Communication
-  type: MSc Student
-
 - name: Kody Dillman
   year: 2012-
   projects: Collaborative AR
   type: MSc Student, RA, 502 Researcher
 
-- name: Richard Tang
-  year: 2012-
-  projects: Physiotherapy
-  type: MSc Student, RA
 
 #    __  __          __                               __   _____ __            __           __      
 #   / / / /___  ____/ /__  _________ __________ _____/ /  / ___// /___  ______/ /__  ____  / /______
@@ -53,12 +39,3 @@
 # \____/_/ /_/\__,_/\___/_/   \__, /_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
 #                            /____/                                                                 
 
-- name: Kevin Ta
-  year: 2015-
-  projects: Collaborative AR
-  type: RA, 502 Researcher
-
-- name: Peter Buk
-  year: 2012-
-  projects: Collaborative AR
-  type: 502 Researcher
