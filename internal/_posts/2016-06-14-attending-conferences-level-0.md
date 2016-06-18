@@ -5,14 +5,6 @@ type: blog
 ---
 
 > This is the second in a series of five blog posts about attending academic conferences (HCI ones in particular). This post outlines some of the basics of attending a conference--what to wear, what to pack, how to travel, and so on.
-> 
-> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
-> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
-> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
-> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
-> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
-> 
-> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
 
 # What should I wear?
 
@@ -65,3 +57,14 @@ Keep all your receipts. For restaurants, ask in advance (when the server is taki
 * Many hotels can provide you with toiletries (for free) if you forgot something: toothbrushes, toothpaste, shampoo, shaving materials, tampons and pads. On the off-chance that they charge for these, consider dropping by a local grocery store or corner store where these might be cheaper.
 * If you remembered your shaving stick, but forgot shaving cream, you might find that shampoo (or even soap) will do the trick.
 * If packing dirty clothes back into your baggage, it should be separated from everything else by (at least) a plastic bag.
+
+> This post is one in a series of five about attending academic conferences.
+> 
+> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
+> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
+> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
+> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
+> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
+> 
+> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
+

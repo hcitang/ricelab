@@ -5,14 +5,6 @@ type: blog
 ---
 
 > This is the fourth in a series of five blog posts about attending academic conferences (HCI ones in particular). This post describes the idea of a "hit list", how to attend a talk and ask a question, and some steps to take in order to prepare for your talk on the day of.
-> 
-> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
-> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
-> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
-> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
-> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
-> 
-> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
 
 In my previous post, I wrote a lot about trying to get bang for your buck in attending conferences, and gave you some basic strategies. This post details an "advanced strategies" that require building up your nerves a bit (as you end up putting yourself out there), but in the end, following through on a set of steps will get you through the day.
 
@@ -68,3 +60,13 @@ Some tips about giving a talk at a conference no particular order. These assume 
 * Introduce yourself to your session chair. Tell them how to pronounce your name properly. Give them a question to ask you in case there are no questions to start. The question can be something that allows you to elaborate on a topic that you might have had to shortchange in your talk itself. Do not answer the question in the talk, otherwise the session chair can't ask the question.
 * As soon as the previous speaker is done speaking (and answering the first question), slowly approach the podium. You can look at the session chair deliberately to sort of ask permission, but the idea is to set up your computer before the question period is over. Note: this is not rude, and helps to keep the session moving smoothly and on time.
 * When you are asked questions, rephrase and repeat the question aloud so the entire audience can hear it. Thank the question asker for the question and do your best to answer it. In my very first CHI talk, I bombed the first question that was asked of me. I learned two things from this event: (1) prepare for questions in advance; (2) no one remembers my bombing it. Mostly, people had forgotten 5 minutes after my talk. The question asker doesn't even remember my having bombed it. So, in some ways, it doesn't matter.
+
+> This post is one in a series of five about attending academic conferences.
+> 
+> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
+> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
+> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
+> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
+> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
+> 
+> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.

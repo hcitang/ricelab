@@ -5,14 +5,6 @@ type: blog
 ---
 
 > This is the first in a series of five blog posts about attending academic conferences (HCI ones in particular). This first post outlines the role of conferences, what they are like to attend and what you should expect to get out of going to one.
-> 
-> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
-> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
-> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
-> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
-> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
-> 
-> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
 
 # What is a conference?
 
@@ -89,3 +81,13 @@ It might surprise you to see your supervisor and other researchers you respect c
 
 * **Accommodations.** My strong suggestion is to stay in accommodations with other students. My favourite experiences as a student were ones where we'd managed to rent out an entire house to be shared amongst a group of students. This will also (generally) save your supervisor money, as the conference hotels generally tend to be more expensive options. Check out [AirBnB](http://airbnb.com/) and [VRBO](http://vrbo.com) for options that are close by the conference venue. You ideally want to be within walking distance. You'll find that a 20 minute walk in the morning is good to get you revved up for the day. Many AirBnB and VRBO places will also have basic kitchen and laundry facilities that you might find useful (e.g. for simple breakfasts or to do laundry), and others will give you access to a pool or hot tub.
 * **Vacation.** It is common to take vacation on the front or back end of a conference (i.e. stay a few extra days). I recommend doing vacation on the back end of a conference. Note: you are going to pay for those extra days out of your own pocket (accommodations, food, etc.).
+
+> This post is one in a series of five about attending academic conferences.
+> 
+> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
+> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
+> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
+> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
+> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
+> 
+> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
