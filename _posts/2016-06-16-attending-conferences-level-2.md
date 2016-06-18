@@ -4,6 +4,14 @@ layout: post
 ---
 
 > This is the fourth in a series of five blog posts about attending academic conferences (HCI ones in particular). This post describes the idea of a "hit list", how to attend a talk and ask a question, and some steps to take in order to prepare for your talk on the day of.
+> 
+> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
+> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
+> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
+> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
+> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
+> 
+> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
 
 In my previous post, I wrote a lot about trying to get bang for your buck in attending conferences, and gave you some basic strategies. This post details an "advanced strategies" that require building up your nerves a bit (as you end up putting yourself out there), but in the end, following through on a set of steps will get you through the day.
 
@@ -33,6 +41,8 @@ This has a few corollaries -- mainly about seizing the moment:
 * Remember: researchers remember exactly 0% of the people that they do not meet. Make it a non-zero percentage by taking the initiative to meet them.
 
 # Attending a Talk and Asking a Question
+
+It is worth knowing what a talk session looks like. Search on the ACM DL or YouTube to find archived talks just to see what they look like. [Here is an example of a talk](https://www.youtube.com/watch?v=na9OBQiVjLk) given by Omid Fakourfar. You'll see the bulk of the talk is his presentation followed by a question period.
 
 A lot of people take the time in talks to check their email. I know this, because I do it sometimes, myself. I generally think this is kind of rude, so try to shy away from doing it. Remember: the people giving paper talks are trying to share something that they have done. If they are not doing a great job of explaining it, it is usually not for lack of desire to do so.
 

@@ -4,6 +4,14 @@ layout: post
 ---
 
 > This is the last in a series of five blog posts about attending academic conferences (HCI ones in particular). This post describes some last tips and tricks for session chairs.
+>
+> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
+> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
+> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
+> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
+> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
+> 
+> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
 
 Being a session chair is sort of "advanced attendance" stuff. I have only played this role a handful of times, but managed to bomb enough times that I can provide a bit of a primer on this.
 

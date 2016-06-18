@@ -4,6 +4,14 @@ layout: post
 ---
 
 > This is the third in a series of five blog posts about attending academic conferences (HCI ones in particular). This post describes how to prepare for conferences, and the role student volunteering can play.
+> 
+> * [HCI Conferences 101](http://ricelab.cpsc.ucalgary.ca/blog/2016/hci-conferences-101/) - What it is like to attend, and what you should expect
+> * [Attending: Level 0](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-0/) - What to wear, what to pack, etc.
+> * [Attending: Level 1](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-1/) - How to prepare for a conference
+> * [Attending: Level 2](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-2/) - Advanced strategies: hit list, asking questions, etc.
+> * [Attending: Level 3](http://ricelab.cpsc.ucalgary.ca/blog/2016/attending-conferences-level-3/) - Being a session chair
+> 
+> My thanks to my colleague [Carman Neustaedter](http://carmster.com) who provided comments and suggestions on an earlier draft.
 
 Remember that as a professional, you have two sets of obligations: to yourself and your research, and also to your lab. To this end, conference preparation is largely concerned with executing on the following thought, "How can I get the most bang for my buck?"
 
@@ -13,7 +21,7 @@ In terms of actual cost, this is the cheapest things you can do in terms of gett
 
 **Grooming.** Grooming and appearance should be self-explanatory. Studies have demonstrated that people that are considered dressed well and groomed well are considered more intelligent and personable than those that aren't. In a previous post, I suggested adopting a casual to smart-casual manner of dress. This should be accompanied by an appropriate haircut and proper self-hygeine ritual. Comb your hair, brush your teeth, and change your clothes each day before you attend the conference.
 
-**Elevator Pitch.** Having a well-practiced elevator pitch is essential when attending a conference. I have written about this many times before, so check out those [1](http://www.hcitang.org/502/mdwiki.html#!elevator-pitches.md). In lieu of doing that though, the elevator pitch is important because it gives you a way of introducing yourself. People are naturally inclined to label and "box" people (e.g., "Carman does domestic computing research", or "Sheelagh is an infovis person", or "Lora is into maker stuff" -- this helps them to remember you and to understand who you are. So, introducing yourself with a good elevator pitch helps people put you into the right kind of box and makes you memorable (even if you do not actually want to be identified with that box).
+**Elevator Pitch.** Having a well-practiced elevator pitch is essential when attending a conference. I have written about this many times before, so check out those ([1](http://www.hcitang.org/502/mdwiki.html#!elevator-pitches.md)). In lieu of doing that though, the elevator pitch is important because it gives you a way of introducing yourself. People are naturally inclined to label and "box" people (e.g., "Carman does domestic computing research", or "Sheelagh is an infovis person", or "Lora is into maker stuff") -- this helps them to remember you and to understand who you are. So, introducing yourself with a good elevator pitch helps people put you into the right kind of box and makes you memorable (even if you do not actually want to be identified with that box).
 
 Your elevator pitch should include your name, affiliation, and a very concise but meaningful description of the kind of research that you do (e.g. your research problem/approach or thesis topic). If you do this well, your elevator pitch will lead to further questions that you can answer easier. For example, an elevator pitch I used in the past was the following:
 
@@ -39,6 +47,10 @@ I usually follow a 1-2-3-4 "must-should-could-meh" rating strategy. For each pap
 I also have an invisible rating, which means "not interested."
 
 By default, any paper given by a colleague or labmate is given a "1" rating. It is important to attend colleagues/labmates' talks as a way of supporting one another. Be careful about this: it is tough to explain to someone why there is a "4" next to their paper if they happen to be borrowing your conference schedule! ;-)
+
+The conference schedule (called a program) is traditionally given to you on paper, though increasingly, you will find them online. The paper ones allow you to annotate the schedule in place, while the online ones come with other features such as filtering/search (and some have crowdsourcing/collaboration features).
+
+If you are at a multi-track conference, you may find that there are multiple things going on at the same time that you want to see. One way to resolve this is to attend sessions that do not have an accompanying paper (e.g. a panel), because you can always read the papers later.
 
 # Bang for buck #3 - Meeting the right people
 
