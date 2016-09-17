@@ -11,3 +11,18 @@ category: internal
 
 # Interesting
 * [Tetris in Clojure](https://github.com/imalooney/t3tr0s)
+* [libjpeg-turbo](http://www.libjpeg-turbo.org/About/TurboJPEG)
+* [Google's Paco](https://github.com/google/paco) - This is the Paco behavioral science mobile research platform http://www.pacoapp.com/
+
+# Networking
+* [0mq](http://zeromq.org/)
+* [Google Protocol Buffers](https://github.com/google/protobuf)
+
+# Camera
+* [Google cameraview](https://github.com/google/cameraview) - for Android cameras
+
+# 360 Camera
+* [Google vrview](https://github.com/google/vrview) - for embedding 360 videos on webpages, etc.
+
+# Other
+* [Google Guava](https://github.com/google/guava) - Core Google libraries for Java
