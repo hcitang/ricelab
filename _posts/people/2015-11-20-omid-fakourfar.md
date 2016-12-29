@@ -6,8 +6,10 @@ thumbnail: /assets/images/people/omid-fakourfar.jpg
 categories:
     - people
 tags:
-    - active
+    - alumni
 permalink: "/people/omid/"
+year: 2014-2016
+projects: AR videochat, 360 videochat
 ---
 
 I am currently an MSc student at the Interactions Lab [(iLab)](http://ilab.cpsc.ucalgary.ca/), University of Calgary. I am a member of RICELab group, supervised by [Dr. Anthony Tang](http://hcitang.org/). Prior to that, I got my BSc degree in Information Technology at Amirkabir University of Technology (Tehran Polytechnic) in Iran [(AUT)](http://aut.ac.ir/). My research topic lies in the intersection of Mobile Video Conferencing, Augmented Reality and Remote Assistance.
