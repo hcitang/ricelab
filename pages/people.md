@@ -57,8 +57,8 @@ permalink: "/people/"
                             <a href="#" class="image left"><img src="{{ site.baseurl }}/assets/images/people/{% cycle 'minion1.png','minion10.jpg','minion11.jpg','minion12.jpg','minion13.jpg','minion14.jpg','minion15.png','minion16.jpg','minion17.jpg','minion18.jpg','minion19.jpg','minion2.jpg','minion3.png','minion4.png','minion5.png','minion6.jpg','minion7.png','minion8.jpg','minion9.jpg' %}" alt="" /></a>
                         {% endif %}
                         <div class="inner">
-                            <h3>{{ person.name }}</h3>
-                            <p>{{ person.type }} ({{ person.year}})<br/>{{ person.projects }}</p>
+                            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                            <p>{{ post.subtitle }} ({{ post.year}})<br/>{{ post.projects }}</p>
                         </div>
                     </div>
                 </section>
