@@ -43,4 +43,8 @@ So, that’s it. Have fun at the PC meeting.
 
 ##References
 
-Nick Feamster also has some [useful thoughts on PC meetings](http://greatresearch.org/2013/10/18/the-paper-reviewing-process/).
+* Nick Feamster also has some [useful thoughts on PC meetings](http://greatresearch.org/2013/10/18/the-paper-reviewing-process/).
+
+* http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf
+
+* https://kenhinckley.wordpress.com/2015/10/15/commentary-on-excellence-in-reviews-thoughts-for-the-hci-community/
