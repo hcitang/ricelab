@@ -21,7 +21,6 @@
   projects: Collaborative AR
   type: MSc Student, RA, 502 Researcher
 
-
 #    __  __          __                               __   _____ __            __           __      
 #   / / / /___  ____/ /__  _________ __________ _____/ /  / ___// /___  ______/ /__  ____  / /______
 #  / / / / __ \/ __  / _ \/ ___/ __ `/ ___/ __ `/ __  /   \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
@@ -29,3 +28,17 @@
 # \____/_/ /_/\__,_/\___/_/   \__, /_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
 #                            /____/                                                                 
 
+- name: Kirk Yuan
+  year: 2017
+  projects: Gesture-Based Marking Menus
+  type: Undergrad Summer Student
+
+- name: Jessica Li
+  year: 2017
+  projects: 
+  type: Undergrad Summer Student
+
+- name: Tran Pham
+  year: 2017
+  projects: Eliciting Gestures for Interaction with 3D Objects
+  type: Undergrad Summer Student
