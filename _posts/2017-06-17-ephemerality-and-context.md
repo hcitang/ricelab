@@ -44,3 +44,9 @@ We need to do this revisiting with members of the community (i.e. the public) fr
 
 It may ultimately be the case that we need to consider everything to do with the internet in a case-by-case basis--just as we do with "real life" (IRL) observational research today. And, perhaps it shouldn't be a surprise that we would need to do so.
 
+### Additional Reading
+
+* [Slides for my talk](http://hcitang.org/papers/2017-rebwest2017-ephemerality-and-context.pptx)
+* [Amy Bruckman’s Ethical Guidelines for Research Online](http://www.cc.gatech.edu/~asb/ethics/)
+* Barry Brown, Alexandra Weilenmann, Donald McMillan, and Airi Lampinen. 2016. Five Provocations for Ethical HCI Research. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16). ACM, New York, NY, USA, 852-863. DOI: https://doi.org/10.1145/2858036.2858313
+
