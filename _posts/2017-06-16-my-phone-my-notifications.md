@@ -34,4 +34,4 @@ As someone who prides himself on immediately responding to texts, phone calls an
 
 One other thing I realize at this point is that this strategy only works for me if no one else in my social circle does the same thing. So, if I am regularly in contact with you, sorry, these tips and tricks are not for you.
 
-But, fundamentally, one thing I like about this strategy is that it puts me back into control of my notifications, my phone, and effectively, my life. I do and deal with notifications on my terms. That's a good feeling.
+But, fundamentally, one thing I like about this strategy is that it puts me back into control of my notifications, my phone, and effectively, my life. I like to deal with notifications on my terms. That's a good feeling.
