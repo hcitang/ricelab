@@ -21,6 +21,11 @@
   projects: Collaborative AR
   type: MSc Student, RA, 502 Researcher
 
+- name: Martin Feick
+  year: 2017
+  projects: RAM-Remote Access Manipulator
+  type: RA
+
 #    __  __          __                               __   _____ __            __           __      
 #   / / / /___  ____/ /__  _________ __________ _____/ /  / ___// /___  ______/ /__  ____  / /______
 #  / / / / __ \/ __  / _ \/ ___/ __ `/ ___/ __ `/ __  /   \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
@@ -35,7 +40,7 @@
 
 - name: Jessica Li
   year: 2017
-  projects: 
+  projects: Gesture-Driven Navigation of 360 Video
   type: Undergrad Summer Student
 
 - name: Tran Pham
