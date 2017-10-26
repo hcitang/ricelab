@@ -79,6 +79,10 @@
 #  / _, _/  __(__  )  __/ /_/ / /  / /__/ / / /  / ___ |(__  |__  ) (__  ) /_/ /_/ / / / / /_(__  )     
 # /_/ |_|\___/____/\___/\__,_/_/   \___/_/ /_/  /_/  |_/____/____/_/____/\__/\__,_/_/ /_/\__/____/      
                                                                                                       
+- name: Martin Feick
+  year: 2017
+  projects: RAM-Remote Access Manipulator
+  type: RA
 
 - name: Haley MacLeod
   year: 2012-2013
@@ -101,6 +105,21 @@
 #   /___ \/ / / /_/ / _/_//___ \/ / / //_ <    \__ \/ __/ / / / __  / _ \/ __ \/ __/ ___/
 #  ____/ / /_/ / __/_/_/ ____/ / /_/ /__/ /   ___/ / /_/ /_/ / /_/ /  __/ / / / /_(__  ) 
 # /_____/\____/____/_/  /_____/\____/____/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
+
+- name: Kirk Yuan
+  year: 2017
+  projects: Gesture-Based Marking Menus
+  type: Undergrad Summer Student
+
+- name: Jessica Li
+  year: 2017
+  projects: Gesture-Driven Navigation of 360 Video
+  type: Undergrad Summer Student
+
+- name: Tran Pham
+  year: 2017
+  projects: Eliciting Gestures for Interaction with 3D Objects
+  type: Undergrad Summer Student
 
 - name: Ore Arowobusoye
   year: 2017

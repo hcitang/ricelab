@@ -21,10 +21,21 @@
   projects: Collaborative AR
   type: MSc Student, RA, 502 Researcher
 
-- name: Martin Feick
-  year: 2017
-  projects: RAM-Remote Access Manipulator
-  type: RA
+- name: Flavia Cavalcanti
+  year: 2017-
+  projects: Analytics Tools for Programmers
+  type: MSc Student
+
+- name: William Wright
+  year: 2017-
+  projects: Instructional AR for Construction Tasks
+  type: MSc Student
+
+- name: Jessi Stark
+  year: 2017-
+  projects: Escape Rooms and Augmented Reality
+  type: MSc Student
+
 
 #    __  __          __                               __   _____ __            __           __      
 #   / / / /___  ____/ /__  _________ __________ _____/ /  / ___// /___  ______/ /__  ____  / /______
@@ -33,17 +44,3 @@
 # \____/_/ /_/\__,_/\___/_/   \__, /_/   \__,_/\__,_/   /____/\__/\__,_/\__,_/\___/_/ /_/\__/____/  
 #                            /____/                                                                 
 
-- name: Kirk Yuan
-  year: 2017
-  projects: Gesture-Based Marking Menus
-  type: Undergrad Summer Student
-
-- name: Jessica Li
-  year: 2017
-  projects: Gesture-Driven Navigation of 360 Video
-  type: Undergrad Summer Student
-
-- name: Tran Pham
-  year: 2017
-  projects: Eliciting Gestures for Interaction with 3D Objects
-  type: Undergrad Summer Student
